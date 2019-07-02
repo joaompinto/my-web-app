@@ -1,0 +1,7 @@
+navigation_items:
+  - link: /
+    name: Home
+  - link: /About
+    name: About
+  - link: /Nice
+    name: Do it
